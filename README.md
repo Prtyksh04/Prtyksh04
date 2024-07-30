@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Singharia</h1>
+<h1 align="center">Hi 👋, I'm Pratyaksh</h1>
 <h3 align="center">A passionate Developer currently in college</h3>
 
 - 👀 I’m interested in Backend Development and CP.
