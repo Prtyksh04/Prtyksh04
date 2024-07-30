@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Pratyaksh.
+<h1 align="center">Hi 👋, I'm Raj Singharia</h1>
+<h3 align="center">A passionate Developer currently in college</h3>
+
 - 👀 I’m interested in Backend Development and CP.
-- 🌱 I’m currently learning Golang , AWS .
-- 💞️ I’m looking to collaborate on Node.js and GO projects.
-- 📫 You can reach me via sainipratyaksh28@gmail.com
+- 🌱 I’m currently learning Nextjs .
+- 💞️ I’m looking to collaborate on Node.js and Nextjs projects.
+- 📫 How to reach me sainipratyaksh28@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
